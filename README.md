@@ -1,7 +1,7 @@
 # YazLab1.1
 One of my school project that automatically playing gold grabber with 4 computer-controlled bot.
 
-Description will be in Turkish language, because program developed in my local Turkish language.
+Description will be in Turkish language, because program developed in my local language(Turkish).
 
 4 bilgisayar tarafından kontrol edilen oyuncu ile otomatik olarak oynanan altın kapmaca oyunu. Okul projem olarak yapmıştım.
 ## --AÇIKLAMA--
