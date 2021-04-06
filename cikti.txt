@@ -1,0 +1,161 @@
+Oyun log başlangıcı.
+oyuncu1 hedef belirledi, Son altin durumu: 195
+oyuncu1 hedefi: 2 0
+oyuncu1 Altin kazandi, Son altin durumu: 210
+Oyuncu 1 Hamle Yaptı.
+kalan Altın= 205
+oyuncu2 hedef belirledi, Son altin durumu: 190
+oyuncu2 hedefi: 6 12
+Oyuncu 2 Hamle Yaptı.
+kalan Altın= 185
+Oyuncu 3, Gizli altınlardan 2 tanesini görünür yaptı!
+oyuncu3 hedef belirledi, Son altin durumu: 185
+oyuncu3 hedefi: 18 2
+oyuncu3 Altin kazandi, Son altin durumu: 205
+Oyuncu 3 Hamle Yaptı.
+kalan Altın= 200
+oyuncu4 hedef belirledi, Son altin durumu: 180
+oyuncu4 hedefi: 18 16
+Oyuncu 4 Hamle Yaptı.
+kalan Altın= 175
+oyuncu1 hedef belirledi, Son altin durumu: 200
+oyuncu1 hedefi: 1 1
+oyuncu1 Altin kazandi, Son altin durumu: 215
+Oyuncu 1 Hamle Yaptı.
+kalan Altın= 210
+Oyuncu 2 Hamle Yaptı.
+kalan Altın= 180
+Oyuncu 3, Gizli altınlardan 2 tanesini görünür yaptı!
+oyuncu3 hedef belirledi, Son altin durumu: 185
+oyuncu3 hedefi: 15 4
+Oyuncu 3 Hamle Yaptı.
+kalan Altın= 180
+oyuncu4 Altin kazandi, Son altin durumu: 195
+Oyuncu 4 Hamle Yaptı.
+kalan Altın= 190
+oyuncu1 hedef belirledi, Son altin durumu: 205
+oyuncu1 hedefi: 0 2
+oyuncu1 Altin kazandi, Son altin durumu: 210
+Oyuncu 1 Hamle Yaptı.
+kalan Altın= 205
+Oyuncu 2 Hamle Yaptı.
+kalan Altın= 175
+oyuncu3 Altin kazandi, Son altin durumu: 200
+Oyuncu 3 Hamle Yaptı.
+kalan Altın= 195
+oyuncu4 hedef belirledi, Son altin durumu: 170
+oyuncu4 hedefi: 17 15
+oyuncu4 Altin kazandi, Son altin durumu: 185
+Oyuncu 4 Hamle Yaptı.
+kalan Altın= 180
+oyuncu1 hedef belirledi, Son altin durumu: 200
+oyuncu1 hedefi: 0 3
+oyuncu1 Altin kazandi, Son altin durumu: 210
+Oyuncu 1 Hamle Yaptı.
+kalan Altın= 205
+Oyuncu 2 Hamle Yaptı.
+kalan Altın= 170
+Oyuncu 3, Gizli altınlardan 2 tanesini görünür yaptı!
+oyuncu3 hedef belirledi, Son altin durumu: 180
+oyuncu3 hedefi: 18 9
+Oyuncu 3 Hamle Yaptı.
+kalan Altın= 175
+oyuncu4 hedef belirledi, Son altin durumu: 160
+oyuncu4 hedefi: 14 13
+Oyuncu 4 Hamle Yaptı.
+kalan Altın= 155
+oyuncu1 hedef belirledi, Son altin durumu: 200
+oyuncu1 hedefi: 0 5
+oyuncu1 Altin kazandi, Son altin durumu: 215
+Oyuncu 1 Hamle Yaptı.
+kalan Altın= 210
+oyuncu2 Altin kazandi, Son altin durumu: 190
+Oyuncu 2 Hamle Yaptı.
+kalan Altın= 185
+Oyuncu 3 Hamle Yaptı.
+kalan Altın= 170
+oyuncu4 Altin kazandi, Son altin durumu: 175
+Oyuncu 4 Hamle Yaptı.
+kalan Altın= 170
+oyuncu1 hedef belirledi, Son altin durumu: 205
+oyuncu1 hedefi: 2 4
+oyuncu1 Altin kazandi, Son altin durumu: 220
+Oyuncu 1 Hamle Yaptı.
+kalan Altın= 215
+oyuncu2 hedef belirledi, Son altin durumu: 175
+oyuncu2 hedefi: 8 14
+Oyuncu 2 Hamle Yaptı.
+kalan Altın= 170
+oyuncu3 Altin kazandi, Son altin durumu: 190
+Oyuncu 3 Hamle Yaptı.
+kalan Altın= 185
+oyuncu4 hedef belirledi, Son altin durumu: 150
+oyuncu4 hedefi: 16 9
+Oyuncu 4 Hamle Yaptı.
+kalan Altın= 145
+oyuncu1 hedef belirledi, Son altin durumu: 210
+oyuncu1 hedefi: 3 5
+oyuncu1 Altin kazandi, Son altin durumu: 220
+Oyuncu 1 Hamle Yaptı.
+kalan Altın= 215
+oyuncu2 Altin kazandi, Son altin durumu: 190
+Oyuncu 2 Hamle Yaptı.
+kalan Altın= 185
+Oyuncu 3, Gizli altınlardan 2 tanesini görünür yaptı!
+oyuncu3 hedef belirledi, Son altin durumu: 170
+oyuncu3 hedefi: 16 9
+oyuncu3 Altin kazandi, Son altin durumu: 190
+Oyuncu 3 Hamle Yaptı.
+kalan Altın= 185
+oyuncu4 hedef belirledi, Son altin durumu: 125
+oyuncu4 hedefi: 19 7
+Oyuncu 4 Hamle Yaptı.
+kalan Altın= 120
+oyuncu1 hedef belirledi, Son altin durumu: 210
+oyuncu1 hedefi: 5 6
+oyuncu1 Altin kazandi, Son altin durumu: 220
+Oyuncu 1 Hamle Yaptı.
+kalan Altın= 215
+oyuncu2 hedef belirledi, Son altin durumu: 175
+oyuncu2 hedefi: 6 14
+oyuncu2 Altin kazandi, Son altin durumu: 190
+Oyuncu 2 Hamle Yaptı.
+kalan Altın= 185
+Oyuncu 3, Gizli altınlardan 2 tanesini görünür yaptı!
+oyuncu3 hedef belirledi, Son altin durumu: 170
+oyuncu3 hedefi: 19 7
+Oyuncu 3 Hamle Yaptı.
+kalan Altın= 165
+Oyuncu 4 Hamle Yaptı.
+kalan Altın= 115
+oyuncu1 hedef belirledi, Son altin durumu: 210
+oyuncu1 hedefi: 5 8
+oyuncu1 Altin kazandi, Son altin durumu: 220
+Oyuncu 1 Hamle Yaptı.
+kalan Altın= 215
+oyuncu2 hedef belirledi, Son altin durumu: 175
+oyuncu2 hedefi: 13 6
+Oyuncu 2 Hamle Yaptı.
+kalan Altın= 170
+oyuncu3 Altin kazandi, Son altin durumu: 185
+Oyuncu 3 Hamle Yaptı.
+kalan Altın= 180
+oyuncu4 hedef belirledi, Son altin durumu: 95
+oyuncu4 hedefi: 17 9
+oyuncu4 Altin kazandi, Son altin durumu: 105
+Oyuncu 4 Hamle Yaptı.
+kalan Altın= 100
+oyuncu1 hedef belirledi, Son altin durumu: 210
+oyuncu1 hedefi: 7 8
+oyuncu1 Altin kazandi, Son altin durumu: 230
+Oyuncu 1 Hamle Yaptı.
+kalan Altın= 225
+Oyuncu 2 Hamle Yaptı.
+kalan Altın= 165
+Oyuncu 3, Gizli altınlardan 2 tanesini görünür yaptı!
+oyuncu3 hedef belirledi, Son altin durumu: 165
+oyuncu3 hedefi: 13 6
+Oyuncu 3 Hamle Yaptı.
+kalan Altın= 160
+oyuncu4 hedef belirledi, Son altin durumu: 80
+oyuncu4 hedefi: 19 10
